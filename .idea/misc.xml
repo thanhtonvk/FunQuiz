@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/drawable/background_gradient.xml" value="0.18640350877192982" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/drawable/button_gradient.xml" value="0.18640350877192982" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/drawable/report.xml" value="0.18640350877192982" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/layout/activity_bao_cao.xml" value="0.17280701754385966" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/layout/activity_bxhactivity.xml" value="0.17280701754385966" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/layout/activity_dang_ky.xml" value="0.17280701754385966" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/layout/activity_dang_nhap.xml" value="0.17280701754385966" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/layout/activity_giai_thich.xml" value="0.2" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/layout/activity_main.xml" value="0.17280701754385966" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/layout/activity_man_choi.xml" value="0.17280701754385966" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/layout/activity_quan_ly_cau_hoi.xml" value="0.17280701754385966" />
+        <entry key="..\:/Android/FunQuiz/FunQuiz/app/src/main/res/layout/activity_quan_ly_tai_khoan.xml" value="0.17280701754385966" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/drawable/arrow_back_ios.xml" value="0.3223684210526316" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/drawable/background_gradient.xml" value="0.3223684210526316" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/drawable/bogoc.xml" value="0.18640350877192982" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/drawable/bubble.xml" value="0.3223684210526316" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/drawable/button_gradient.xml" value="0.3223684210526316" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/drawable/simple.xml" value="0.3223684210526316" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/drawable/testcornery.xml" value="0.3223684210526316" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/drawable/volume_up_24.xml" value="0.3223684210526316" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_bao_cao.xml" value="0.275" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_bxhactivity.xml" value="0.275" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_dang_ky.xml" value="0.17280701754385966" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_dang_nhap.xml" value="0.33" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_giai_thich.xml" value="0.25" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_man_choi.xml" value="0.25" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_nhap_cau_hoi.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_quan_ly_bao_cao.xml" value="0.3047619047619048" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_quan_ly_cau_hoi.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_quan_ly_tai_khoan.xml" value="0.3047619047619048" />
+        <entry key="..\:/Users/thanh/AndroidStudioProjects/FunQuiz/app/src/main/res/layout/activity_trang_quan_tri.xml" value="0.3087719298245614" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Actitivy.TrangQuanTri.QuanLyTaiKhoanActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@drawable/background_gradient"
+        android:gravity="center"
+        android:text="QUẢN LÝ TÀI KHOẢN"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+    <AutoCompleteTextView
+        android:layout_margin="10dp"
+        android:id="@+id/autoComplete_taikhoan"
+        android:background="@drawable/bogoc"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Tìm kiếm"
+        android:gravity="center"/>
+    <ListView
+        android:id="@+id/lv_taikhoan"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

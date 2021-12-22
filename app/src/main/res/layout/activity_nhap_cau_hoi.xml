@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Actitivy.TrangQuanTri.NhapCauHoiActivity"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@drawable/background_gradient"
+        android:gravity="center"
+        android:text="NHẬP CÂU HỎI"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+    <EditText
+        android:id="@+id/edt_nhapcauhoi"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bogoc"
+        android:gravity="center"
+        android:hint="Nhập câu hỏi"/>
+    <EditText
+        android:id="@+id/edt_dapan1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bogoc"
+        android:gravity="center"
+        android:hint="Đáp án 1"/>
+    <EditText
+        android:id="@+id/edt_dapan2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bogoc"
+        android:gravity="center"
+        android:hint="Đáp án 2"/>
+    <EditText
+        android:id="@+id/edt_dapan3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bogoc"
+        android:gravity="center"
+        android:hint="Đáp án 3"/>
+    <EditText
+        android:id="@+id/edt_dapan4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bogoc"
+        android:gravity="center"
+        android:hint="Đáp án 4"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chọn đáp án đúng"
+        android:gravity="center"/>
+    <Spinner
+
+        android:id="@+id/spiner_dapandung"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bogoc"
+        android:gravity="center"/>
+    <EditText
+        android:id="@+id/edt_giaithich"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bogoc"
+        android:gravity="center"
+        android:hint="Giải thích"/>
+    <Button
+        android:id="@+id/btn_capnhatcauhoi"
+        android:text="Thêm"
+        android:padding="20dp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_gradient"/>
+
+</LinearLayout>

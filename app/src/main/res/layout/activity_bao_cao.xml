@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Actitivy.TrangQuanTri.BaoCaoActivity"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@drawable/background_gradient"
+        android:gravity="center"
+        android:text="BÁO CÁO"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+    <TextView
+        android:layout_marginLeft="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Câu hỏi"/>
+    <TextView
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:id="@+id/tv_cauhoibaocao"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bogoc"/>
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lí do báo cáo"/>
+    <EditText
+        android:padding="10dp"
+        android:id="@+id/tv_noidungbaocao"
+        android:layout_margin="20dp"
+        android:background="@drawable/bogoc"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"/>
+    <Button
+        android:id="@+id/btn_guibaocao"
+        android:text="Gửi báo cáo"
+        android:background="@drawable/button_gradient"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+</LinearLayout>

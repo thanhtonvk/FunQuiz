@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Actitivy.TrangQuanTri.TrangQuanTriActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@drawable/background_gradient"
+        android:gravity="center"
+        android:text="TRANG QUẢN TRỊ"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/btn_quanlycauhoi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/button_gradient"
+        android:padding="30dp"
+        android:text="Quản lý câu hỏi" />
+
+    <Button
+        android:id="@+id/btn_quanlytaikhoan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/button_gradient"
+        android:padding="30dp"
+        android:text="Quản lý tài khoản" />
+
+    <Button
+        android:id="@+id/btn_quanlybaocao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/button_gradient"
+        android:padding="30dp"
+        android:text="Quản lý báo cáo" />
+</LinearLayout>
