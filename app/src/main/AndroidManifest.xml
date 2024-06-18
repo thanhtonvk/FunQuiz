@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tondz.funquiz">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity
+            android:name=".Actitivy.TrangQuanTri.BaoCaoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Actitivy.BXHActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Actitivy.TrangQuanTri.QuanLyBaoCaoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Actitivy.TrangQuanTri.QuanLyTaiKhoanActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Actitivy.TrangQuanTri.NhapCauHoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Actitivy.TrangQuanTri.QuanLyCauHoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Actitivy.DangKyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Actitivy.DangNhapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Actitivy.GiaiThichActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Actitivy.ManChoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Actitivy.TrangQuanTri.TrangQuanTriActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

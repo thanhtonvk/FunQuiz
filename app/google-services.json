@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898811166669",
+    "firebase_url": "https://funquiz-47462-default-rtdb.firebaseio.com",
+    "project_id": "funquiz-47462",
+    "storage_bucket": "funquiz-47462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898811166669:android:91f2ee7465365edcd40e84",
+        "android_client_info": {
+          "package_name": "com.tondz.funquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898811166669-t0m55n3fldeqf2j5t6f84nhcfos7aieq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1uIXeKPR5VN33B6ICg3tGXVoj1Ddpjvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898811166669-t0m55n3fldeqf2j5t6f84nhcfos7aieq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
